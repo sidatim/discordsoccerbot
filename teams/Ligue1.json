@@ -1,0 +1,149 @@
+{
+    "league": "Ligue1",
+    "teams": [
+        {
+            "name": "Toulouse FC",
+            "id": 511,
+            "alias": [
+                "Toulouse",
+                "TOU"
+            ]
+        },
+        {
+            "name": "Stade Brestois 29",
+            "id": 512,
+            "alias": [
+                "Brest",
+                "BRE"
+            ]
+        },
+        {
+            "name": "Olympique de Marseille",
+            "id": 516,
+            "alias": [
+                "Marseille",
+                "MAR"
+            ]
+        },
+        {
+            "name": "AJ Auxerre",
+            "id": 519,
+            "alias": [
+                "Auxerre",
+                "AJA"
+            ]
+        },
+        {
+            "name": "Lille OSC",
+            "id": 521,
+            "alias": [
+                "Lille",
+                "LIL"
+            ]
+        },
+        {
+            "name": "OGC Nice",
+            "id": 522,
+            "alias": [
+                "Nice",
+                "NIC"
+            ]
+        },
+        {
+            "name": "Olympique Lyonnais",
+            "id": 523,
+            "alias": [
+                "Olympique Lyon",
+                "LYO"
+            ]
+        },
+        {
+            "name": "Paris Saint-Germain FC",
+            "id": 524,
+            "alias": [
+                "PSG",
+                "PSG"
+            ]
+        },
+        {
+            "name": "FC Lorient",
+            "id": 525,
+            "alias": [
+                "Lorient",
+                "FCL"
+            ]
+        },
+        {
+            "name": "Stade Rennais FC 1901",
+            "id": 529,
+            "alias": [
+                "Stade Rennais",
+                "REN"
+            ]
+        },
+        {
+            "name": "Angers SCO",
+            "id": 532,
+            "alias": [
+                "Angers SCO",
+                "ANG"
+            ]
+        },
+        {
+            "name": "Le Havre AC",
+            "id": 533,
+            "alias": [
+                "Le Havre",
+                "HAC"
+            ]
+        },
+        {
+            "name": "FC Nantes",
+            "id": 543,
+            "alias": [
+                "Nantes",
+                "NAN"
+            ]
+        },
+        {
+            "name": "FC Metz",
+            "id": 545,
+            "alias": [
+                "FC Metz",
+                "FCM"
+            ]
+        },
+        {
+            "name": "Racing Club de Lens",
+            "id": 546,
+            "alias": [
+                "RC Lens",
+                "RCL"
+            ]
+        },
+        {
+            "name": "AS Monaco FC",
+            "id": 548,
+            "alias": [
+                "Monaco",
+                "ASM"
+            ]
+        },
+        {
+            "name": "RC Strasbourg Alsace",
+            "id": 576,
+            "alias": [
+                "Strasbourg",
+                "RC "
+            ]
+        },
+        {
+            "name": "Paris FC",
+            "id": 1045,
+            "alias": [
+                "Paris FC",
+                "PFC"
+            ]
+        }
+    ]
+}

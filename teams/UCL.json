@@ -1,0 +1,293 @@
+{
+    "league": "UCL",
+    "teams": [
+        {
+            "name": "Bayer 04 Leverkusen",
+            "id": 3,
+            "alias": [
+                "Leverkusen",
+                "B04"
+            ]
+        },
+        {
+            "name": "Borussia Dortmund",
+            "id": 4,
+            "alias": [
+                "Dortmund",
+                "BVB"
+            ]
+        },
+        {
+            "name": "FC Bayern M\u00fcnchen",
+            "id": 5,
+            "alias": [
+                "Bayern",
+                "FCB"
+            ]
+        },
+        {
+            "name": "Eintracht Frankfurt",
+            "id": 19,
+            "alias": [
+                "Frankfurt",
+                "SGE"
+            ]
+        },
+        {
+            "name": "Arsenal FC",
+            "id": 57,
+            "alias": [
+                "Arsenal",
+                "ARS"
+            ]
+        },
+        {
+            "name": "Chelsea FC",
+            "id": 61,
+            "alias": [
+                "Chelsea",
+                "CHE"
+            ]
+        },
+        {
+            "name": "Liverpool FC",
+            "id": 64,
+            "alias": [
+                "Liverpool",
+                "LIV"
+            ]
+        },
+        {
+            "name": "Manchester City FC",
+            "id": 65,
+            "alias": [
+                "Man City",
+                "MCI"
+            ]
+        },
+        {
+            "name": "Newcastle United FC",
+            "id": 67,
+            "alias": [
+                "Newcastle",
+                "NEW"
+            ]
+        },
+        {
+            "name": "Tottenham Hotspur FC",
+            "id": 73,
+            "alias": [
+                "Tottenham",
+                "TOT"
+            ]
+        },
+        {
+            "name": "Athletic Club",
+            "id": 77,
+            "alias": [
+                "Athletic",
+                "ATH"
+            ]
+        },
+        {
+            "name": "Club Atl\u00e9tico de Madrid",
+            "id": 78,
+            "alias": [
+                "Atleti",
+                "ATL"
+            ]
+        },
+        {
+            "name": "FC Barcelona",
+            "id": 81,
+            "alias": [
+                "Bar\u00e7a",
+                "FCB"
+            ]
+        },
+        {
+            "name": "Real Madrid CF",
+            "id": 86,
+            "alias": [
+                "Real Madrid",
+                "RMA"
+            ]
+        },
+        {
+            "name": "Villarreal CF",
+            "id": 94,
+            "alias": [
+                "Villarreal",
+                "VIL"
+            ]
+        },
+        {
+            "name": "Atalanta BC",
+            "id": 102,
+            "alias": [
+                "Atalanta",
+                "ATA"
+            ]
+        },
+        {
+            "name": "FC Internazionale Milano",
+            "id": 108,
+            "alias": [
+                "Inter",
+                "INT"
+            ]
+        },
+        {
+            "name": "Juventus FC",
+            "id": 109,
+            "alias": [
+                "Juventus",
+                "JUV"
+            ]
+        },
+        {
+            "name": "SSC Napoli",
+            "id": 113,
+            "alias": [
+                "Napoli",
+                "NAP"
+            ]
+        },
+        {
+            "name": "Sporting Clube de Portugal",
+            "id": 498,
+            "alias": [
+                "Sporting CP",
+                "SPO"
+            ]
+        },
+        {
+            "name": "Olympique de Marseille",
+            "id": 516,
+            "alias": [
+                "Marseille",
+                "MAR"
+            ]
+        },
+        {
+            "name": "Paris Saint-Germain FC",
+            "id": 524,
+            "alias": [
+                "PSG",
+                "PSG"
+            ]
+        },
+        {
+            "name": "AS Monaco FC",
+            "id": 548,
+            "alias": [
+                "Monaco",
+                "ASM"
+            ]
+        },
+        {
+            "name": "Galatasaray SK",
+            "id": 610,
+            "alias": [
+                "Galatasaray",
+                "GAL"
+            ]
+        },
+        {
+            "name": "Qaraba\u011f A\u011fdam FK",
+            "id": 611,
+            "alias": [
+                "Qaraba\u011f A\u011fdam",
+                "QAR"
+            ]
+        },
+        {
+            "name": "PAE Olympiakos SFP",
+            "id": 654,
+            "alias": [
+                "Olympiakos",
+                "OLY"
+            ]
+        },
+        {
+            "name": "PSV",
+            "id": 674,
+            "alias": [
+                "PSV",
+                "PSV"
+            ]
+        },
+        {
+            "name": "AFC Ajax",
+            "id": 678,
+            "alias": [
+                "Ajax",
+                "AJA"
+            ]
+        },
+        {
+            "name": "Club Brugge KV",
+            "id": 851,
+            "alias": [
+                "Club Brugge",
+                "CLU"
+            ]
+        },
+        {
+            "name": "SK Slavia Praha",
+            "id": 930,
+            "alias": [
+                "Slavia Praha",
+                "SLP"
+            ]
+        },
+        {
+            "name": "FC K\u00f8benhavn",
+            "id": 1876,
+            "alias": [
+                "K\u00f8benhavn",
+                "KOB"
+            ]
+        },
+        {
+            "name": "Sport Lisboa e Benfica",
+            "id": 1903,
+            "alias": [
+                "SL Benfica",
+                "BEN"
+            ]
+        },
+        {
+            "name": "Royale Union Saint-Gilloise",
+            "id": 3929,
+            "alias": [
+                "Union SG",
+                "USG"
+            ]
+        },
+        {
+            "name": "FK Bod\u00f8/Glimt",
+            "id": 5721,
+            "alias": [
+                "Bod\u00f8/Glimt",
+                "FK"
+            ]
+        },
+        {
+            "name": "FK Kairat",
+            "id": 10601,
+            "alias": [
+                "FK Kairat",
+                "KAI"
+            ]
+        },
+        {
+            "name": "Paphos FC",
+            "id": 11034,
+            "alias": [
+                "Paphos FC",
+                "AEP"
+            ]
+        }
+    ]
+}

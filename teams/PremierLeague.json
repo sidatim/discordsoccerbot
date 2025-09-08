@@ -1,0 +1,167 @@
+{
+    "league": "PremierLeague",
+    "teams": [
+        {
+            "name": "Arsenal FC",
+            "id": 57,
+            "alias": [
+                "Arsenal",
+                "ARS"
+            ]
+        },
+        {
+            "name": "Aston Villa FC",
+            "id": 58,
+            "alias": [
+                "Aston Villa",
+                "AVL"
+            ]
+        },
+        {
+            "name": "Chelsea FC",
+            "id": 61,
+            "alias": [
+                "Chelsea",
+                "CHE"
+            ]
+        },
+        {
+            "name": "Everton FC",
+            "id": 62,
+            "alias": [
+                "Everton",
+                "EVE"
+            ]
+        },
+        {
+            "name": "Fulham FC",
+            "id": 63,
+            "alias": [
+                "Fulham",
+                "FUL"
+            ]
+        },
+        {
+            "name": "Liverpool FC",
+            "id": 64,
+            "alias": [
+                "Liverpool",
+                "LIV"
+            ]
+        },
+        {
+            "name": "Manchester City FC",
+            "id": 65,
+            "alias": [
+                "Man City",
+                "Manchester City",
+                "MCI"
+            ]
+        },
+        {
+            "name": "Manchester United FC",
+            "id": 66,
+            "alias": [
+                "Man United",
+                "Manchester United",
+                "MUN"
+            ]
+        },
+        {
+            "name": "Newcastle United FC",
+            "id": 67,
+            "alias": [
+                "Newcastle",
+                "NEW"
+            ]
+        },
+        {
+            "name": "Sunderland AFC",
+            "id": 71,
+            "alias": [
+                "Sunderland",
+                "SUN"
+            ]
+        },
+        {
+            "name": "Tottenham Hotspur FC",
+            "id": 73,
+            "alias": [
+                "Tottenham",
+                "TOT"
+            ]
+        },
+        {
+            "name": "Wolverhampton Wanderers FC",
+            "id": 76,
+            "alias": [
+                "Wolverhampton",
+                "WOL"
+            ]
+        },
+        {
+            "name": "Burnley FC",
+            "id": 328,
+            "alias": [
+                "Burnley",
+                "BUR"
+            ]
+        },
+        {
+            "name": "Leeds United FC",
+            "id": 341,
+            "alias": [
+                "Leeds United",
+                "LEE"
+            ]
+        },
+        {
+            "name": "Nottingham Forest FC",
+            "id": 351,
+            "alias": [
+                "Nottingham",
+                "NOT"
+            ]
+        },
+        {
+            "name": "Crystal Palace FC",
+            "id": 354,
+            "alias": [
+                "Crystal Palace",
+                "CRY"
+            ]
+        },
+        {
+            "name": "Brighton & Hove Albion FC",
+            "id": 397,
+            "alias": [
+                "Brighton Hove",
+                "BHA"
+            ]
+        },
+        {
+            "name": "Brentford FC",
+            "id": 402,
+            "alias": [
+                "Brentford",
+                "BRE"
+            ]
+        },
+        {
+            "name": "West Ham United FC",
+            "id": 563,
+            "alias": [
+                "West Ham",
+                "WHU"
+            ]
+        },
+        {
+            "name": "AFC Bournemouth",
+            "id": 1044,
+            "alias": [
+                "Bournemouth",
+                "BOU"
+            ]
+        }
+    ]
+}

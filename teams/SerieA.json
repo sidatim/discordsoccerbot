@@ -1,0 +1,165 @@
+{
+    "league": "SerieA",
+    "teams": [
+        {
+            "name": "AC Milan",
+            "id": 98,
+            "alias": [
+                "Milan",
+                "MIL"
+            ]
+        },
+        {
+            "name": "ACF Fiorentina",
+            "id": 99,
+            "alias": [
+                "Fiorentina",
+                "FIO"
+            ]
+        },
+        {
+            "name": "AS Roma",
+            "id": 100,
+            "alias": [
+                "Roma",
+                "ROM"
+            ]
+        },
+        {
+            "name": "Atalanta BC",
+            "id": 102,
+            "alias": [
+                "Atalanta",
+                "ATA"
+            ]
+        },
+        {
+            "name": "Bologna FC 1909",
+            "id": 103,
+            "alias": [
+                "Bologna",
+                "BOL"
+            ]
+        },
+        {
+            "name": "Cagliari Calcio",
+            "id": 104,
+            "alias": [
+                "Cagliari",
+                "CAG"
+            ]
+        },
+        {
+            "name": "Genoa CFC",
+            "id": 107,
+            "alias": [
+                "Genoa",
+                "GEN"
+            ]
+        },
+        {
+            "name": "FC Internazionale Milano",
+            "id": 108,
+            "alias": [
+                "Inter",
+                "INT"
+            ]
+        },
+        {
+            "name": "Juventus FC",
+            "id": 109,
+            "alias": [
+                "Juventus",
+                "JUV"
+            ]
+        },
+        {
+            "name": "SS Lazio",
+            "id": 110,
+            "alias": [
+                "Lazio",
+                "LAZ"
+            ]
+        },
+        {
+            "name": "Parma Calcio 1913",
+            "id": 112,
+            "alias": [
+                "Parma",
+                "PAR"
+            ]
+        },
+        {
+            "name": "SSC Napoli",
+            "id": 113,
+            "alias": [
+                "Napoli",
+                "NAP"
+            ]
+        },
+        {
+            "name": "Udinese Calcio",
+            "id": 115,
+            "alias": [
+                "Udinese",
+                "UDI"
+            ]
+        },
+        {
+            "name": "Hellas Verona FC",
+            "id": 450,
+            "alias": [
+                "Verona",
+                "HVE"
+            ]
+        },
+        {
+            "name": "US Cremonese",
+            "id": 457,
+            "alias": [
+                "Cremonese",
+                "CRE"
+            ]
+        },
+        {
+            "name": "US Sassuolo Calcio",
+            "id": 471,
+            "alias": [
+                "Sassuolo",
+                "SAS"
+            ]
+        },
+        {
+            "name": "AC Pisa 1909",
+            "id": 487,
+            "alias": [
+                "AC Pisa",
+                "PIS"
+            ]
+        },
+        {
+            "name": "Torino FC",
+            "id": 586,
+            "alias": [
+                "Torino",
+                "TOR"
+            ]
+        },
+        {
+            "name": "US Lecce",
+            "id": 5890,
+            "alias": [
+                "Lecce",
+                "USL"
+            ]
+        },
+        {
+            "name": "Como 1907",
+            "id": 7397,
+            "alias": [
+                "Como 1907",
+                "COM"
+            ]
+        }
+    ]
+}

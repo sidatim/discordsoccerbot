@@ -1,0 +1,165 @@
+{
+    "league": "LaLiga",
+    "teams": [
+        {
+            "name": "Athletic Club",
+            "id": 77,
+            "alias": [
+                "Athletic",
+                "ATH"
+            ]
+        },
+        {
+            "name": "Club Atl\u00e9tico de Madrid",
+            "id": 78,
+            "alias": [
+                "Atleti",
+                "ATL"
+            ]
+        },
+        {
+            "name": "CA Osasuna",
+            "id": 79,
+            "alias": [
+                "Osasuna",
+                "OSA"
+            ]
+        },
+        {
+            "name": "RCD Espanyol de Barcelona",
+            "id": 80,
+            "alias": [
+                "Espanyol",
+                "ESP"
+            ]
+        },
+        {
+            "name": "FC Barcelona",
+            "id": 81,
+            "alias": [
+                "Bar\u00e7a",
+                "FCB"
+            ]
+        },
+        {
+            "name": "Getafe CF",
+            "id": 82,
+            "alias": [
+                "Getafe",
+                "GET"
+            ]
+        },
+        {
+            "name": "Real Madrid CF",
+            "id": 86,
+            "alias": [
+                "Real Madrid",
+                "RMA"
+            ]
+        },
+        {
+            "name": "Rayo Vallecano de Madrid",
+            "id": 87,
+            "alias": [
+                "Rayo Vallecano",
+                "RAY"
+            ]
+        },
+        {
+            "name": "Levante UD",
+            "id": 88,
+            "alias": [
+                "Levante",
+                "LEV"
+            ]
+        },
+        {
+            "name": "RCD Mallorca",
+            "id": 89,
+            "alias": [
+                "Mallorca",
+                "MAL"
+            ]
+        },
+        {
+            "name": "Real Betis Balompi\u00e9",
+            "id": 90,
+            "alias": [
+                "Real Betis",
+                "BET"
+            ]
+        },
+        {
+            "name": "Real Sociedad de F\u00fatbol",
+            "id": 92,
+            "alias": [
+                "Real Sociedad",
+                "RSO"
+            ]
+        },
+        {
+            "name": "Villarreal CF",
+            "id": 94,
+            "alias": [
+                "Villarreal",
+                "VIL"
+            ]
+        },
+        {
+            "name": "Valencia CF",
+            "id": 95,
+            "alias": [
+                "Valencia",
+                "VAL"
+            ]
+        },
+        {
+            "name": "Deportivo Alav\u00e9s",
+            "id": 263,
+            "alias": [
+                "Alav\u00e9s",
+                "ALA"
+            ]
+        },
+        {
+            "name": "Elche CF",
+            "id": 285,
+            "alias": [
+                "Elche",
+                "ELC"
+            ]
+        },
+        {
+            "name": "Girona FC",
+            "id": 298,
+            "alias": [
+                "Girona",
+                "GIR"
+            ]
+        },
+        {
+            "name": "RC Celta de Vigo",
+            "id": 558,
+            "alias": [
+                "Celta",
+                "CEL"
+            ]
+        },
+        {
+            "name": "Sevilla FC",
+            "id": 559,
+            "alias": [
+                "Sevilla FC",
+                "SEV"
+            ]
+        },
+        {
+            "name": "Real Oviedo",
+            "id": 1048,
+            "alias": [
+                "Real Oviedo",
+                "OVI"
+            ]
+        }
+    ]
+}

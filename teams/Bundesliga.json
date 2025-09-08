@@ -1,0 +1,149 @@
+{
+    "league": "Bundesliga",
+    "teams": [
+        {
+            "name": "1. FC K\u00f6ln",
+            "id": 1,
+            "alias": [
+                "1. FC K\u00f6ln",
+                "KOE"
+            ]
+        },
+        {
+            "name": "TSG 1899 Hoffenheim",
+            "id": 2,
+            "alias": [
+                "Hoffenheim",
+                "TSG"
+            ]
+        },
+        {
+            "name": "Bayer 04 Leverkusen",
+            "id": 3,
+            "alias": [
+                "Leverkusen",
+                "B04"
+            ]
+        },
+        {
+            "name": "Borussia Dortmund",
+            "id": 4,
+            "alias": [
+                "Dortmund",
+                "BVB"
+            ]
+        },
+        {
+            "name": "FC Bayern M\u00fcnchen",
+            "id": 5,
+            "alias": [
+                "Bayern",
+                "FCB"
+            ]
+        },
+        {
+            "name": "Hamburger SV",
+            "id": 7,
+            "alias": [
+                "HSV",
+                "HSV"
+            ]
+        },
+        {
+            "name": "VfB Stuttgart",
+            "id": 10,
+            "alias": [
+                "Stuttgart",
+                "VFB"
+            ]
+        },
+        {
+            "name": "VfL Wolfsburg",
+            "id": 11,
+            "alias": [
+                "Wolfsburg",
+                "WOB"
+            ]
+        },
+        {
+            "name": "SV Werder Bremen",
+            "id": 12,
+            "alias": [
+                "Bremen",
+                "SVW"
+            ]
+        },
+        {
+            "name": "1. FSV Mainz 05",
+            "id": 15,
+            "alias": [
+                "Mainz",
+                "M05"
+            ]
+        },
+        {
+            "name": "FC Augsburg",
+            "id": 16,
+            "alias": [
+                "Augsburg",
+                "FCA"
+            ]
+        },
+        {
+            "name": "SC Freiburg",
+            "id": 17,
+            "alias": [
+                "Freiburg",
+                "SCF"
+            ]
+        },
+        {
+            "name": "Borussia M\u00f6nchengladbach",
+            "id": 18,
+            "alias": [
+                "M'gladbach",
+                "BMG"
+            ]
+        },
+        {
+            "name": "Eintracht Frankfurt",
+            "id": 19,
+            "alias": [
+                "Frankfurt",
+                "SGE"
+            ]
+        },
+        {
+            "name": "FC St. Pauli 1910",
+            "id": 20,
+            "alias": [
+                "St. Pauli",
+                "STP"
+            ]
+        },
+        {
+            "name": "1. FC Union Berlin",
+            "id": 28,
+            "alias": [
+                "Union Berlin",
+                "UNB"
+            ]
+        },
+        {
+            "name": "1. FC Heidenheim 1846",
+            "id": 44,
+            "alias": [
+                "Heidenheim",
+                "HEI"
+            ]
+        },
+        {
+            "name": "RB Leipzig",
+            "id": 721,
+            "alias": [
+                "RB Leipzig",
+                "RBL"
+            ]
+        }
+    ]
+}
