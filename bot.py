@@ -7,6 +7,7 @@ import datetime
 import json
 from dateutil.relativedelta import relativedelta
 load_dotenv()
+apiToken=os.getenv('soccerToken')
 botToken=os.getenv('token')
 compsDict={ ##stores the key value pairing for the league/match
     "PremierLeague": 2021,
@@ -29,7 +30,7 @@ nextWeek=today+datetime.timedelta(days=7)
 nextweekString=nextWeek.strftime("%Y-%m-%d")
 nextMonth=today +relativedelta(months=1)
 
-apiToken=os.getenv('soccerToken')
+
 
 intent=d.Intents.default()
 intent.typing=False
@@ -206,38 +207,7 @@ def getLeagues(dictValue): ##get league matches
         return "Error"
 
 
-#USED to get the teams id and official name from the api (should use this to update teams ID and names at the start of every season)
-"""
-def fetchTeam(dictValue):
-    link="http://api.football-data.org/v4/competitions/"+str(dictValue)+ '/teams'
-    header={'X-Auth-Token':apiToken}
-    response=requests.get(link,headers=header)
-    teamlist=[]
-    if response.status_code==200:
-        teams=response.json()     
-        for team in teams['teams']:
-              comp={
-                'name': team['name'],
-                'id': team['id'],
-                'alias':[team['shortName'], team['tla']]   
-        }
-              teamlist.append(comp)
-            
-        
-    else:
-        print("Error getting teams", response.status_code)
-        return "Error getting teams. Please try again later."
-    return teamlist
-for key, value in compsDict.items():
 
-    response=fetchTeam(value)
-    data={
-        'league': key,
-        'teams': response
-    }
-    with open(key+'.json', mode='w') as write_file:
-        json.dump(data, write_file, indent=4)
-  """ 
   
 
 

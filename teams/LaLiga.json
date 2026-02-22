@@ -6,14 +6,17 @@
             "id": 77,
             "alias": [
                 "Athletic",
+                "Athletic Bilbao",
+                "Bilbao",
                 "ATH"
             ]
         },
         {
-            "name": "Club Atl\u00e9tico de Madrid",
+            "name": "Atletico Madrid",
             "id": 78,
             "alias": [
                 "Atleti",
+                "Atletico",
                 "ATL"
             ]
         },
@@ -37,7 +40,8 @@
             "name": "FC Barcelona",
             "id": 81,
             "alias": [
-                "Bar\u00e7a",
+                "Barca",
+                "Barcelona",
                 "FCB"
             ]
         },
@@ -54,6 +58,7 @@
             "id": 86,
             "alias": [
                 "Real Madrid",
+                "Madrid",
                 "RMA"
             ]
         },
@@ -62,6 +67,7 @@
             "id": 87,
             "alias": [
                 "Rayo Vallecano",
+                "Rayo",
                 "RAY"
             ]
         },
@@ -82,18 +88,20 @@
             ]
         },
         {
-            "name": "Real Betis Balompi\u00e9",
+            "name": "Real Betis",
             "id": 90,
             "alias": [
                 "Real Betis",
+                "Betis",
                 "BET"
             ]
         },
         {
-            "name": "Real Sociedad de F\u00fatbol",
+            "name": "Real Sociedad",
             "id": 92,
             "alias": [
                 "Real Sociedad",
+                "Sociedad",
                 "RSO"
             ]
         },
@@ -114,10 +122,10 @@
             ]
         },
         {
-            "name": "Deportivo Alav\u00e9s",
+            "name": "Deportivo Alaves",
             "id": 263,
             "alias": [
-                "Alav\u00e9s",
+                "Alaves",
                 "ALA"
             ]
         },
@@ -141,6 +149,7 @@
             "name": "RC Celta de Vigo",
             "id": 558,
             "alias": [
+                "Celta Vigo",
                 "Celta",
                 "CEL"
             ]
@@ -158,6 +167,7 @@
             "id": 1048,
             "alias": [
                 "Real Oviedo",
+                "Oviedo",
                 "OVI"
             ]
         }

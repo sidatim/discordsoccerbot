@@ -6,6 +6,7 @@
             "id": 3,
             "alias": [
                 "Leverkusen",
+                "Bayer Leverkusen",
                 "B04"
             ]
         },
@@ -18,11 +19,11 @@
             ]
         },
         {
-            "name": "FC Bayern M\u00fcnchen",
+            "name": "FC Bayern Munich",
             "id": 5,
             "alias": [
                 "Bayern",
-                "FCB"
+                "Bayern Munchen"
             ]
         },
         {
@@ -90,10 +91,11 @@
             ]
         },
         {
-            "name": "Club Atl\u00e9tico de Madrid",
+            "name": "Atletico Madrid",
             "id": 78,
             "alias": [
                 "Atleti",
+                "Atletico",
                 "ATL"
             ]
         },
@@ -101,7 +103,8 @@
             "name": "FC Barcelona",
             "id": 81,
             "alias": [
-                "Bar\u00e7a",
+                "Barcelona",
+                "Barca",
                 "FCB"
             ]
         },
@@ -110,6 +113,7 @@
             "id": 86,
             "alias": [
                 "Real Madrid",
+                "Madrid",
                 "RMA"
             ]
         },
@@ -134,6 +138,7 @@
             "id": 108,
             "alias": [
                 "Inter",
+                "Inter Milan",
                 "INT"
             ]
         },
@@ -174,6 +179,7 @@
             "id": 524,
             "alias": [
                 "PSG",
+                "Paris Saint-Germain",
                 "PSG"
             ]
         },
@@ -182,6 +188,7 @@
             "id": 548,
             "alias": [
                 "Monaco",
+                "As Monaco",
                 "ASM"
             ]
         },
@@ -194,10 +201,10 @@
             ]
         },
         {
-            "name": "Qaraba\u011f A\u011fdam FK",
+            "name": "Qarabag FK",
             "id": 611,
             "alias": [
-                "Qaraba\u011f A\u011fdam",
+                "Qarabag",
                 "QAR"
             ]
         },
@@ -242,15 +249,15 @@
             ]
         },
         {
-            "name": "FC K\u00f8benhavn",
+            "name": "FC Copenhagn",
             "id": 1876,
             "alias": [
-                "K\u00f8benhavn",
+                "Copenhagn",
                 "KOB"
             ]
         },
         {
-            "name": "Sport Lisboa e Benfica",
+            "name": "Benfica",
             "id": 1903,
             "alias": [
                 "SL Benfica",
@@ -266,10 +273,11 @@
             ]
         },
         {
-            "name": "FK Bod\u00f8/Glimt",
+            "name": "FK Bodo Glimt",
             "id": 5721,
             "alias": [
-                "Bod\u00f8/Glimt",
+                "Bodo Glimt",
+                "Bodo",
                 "FK"
             ]
         },
@@ -278,6 +286,7 @@
             "id": 10601,
             "alias": [
                 "FK Kairat",
+               "Kairat",
                 "KAI"
             ]
         },
@@ -286,6 +295,7 @@
             "id": 11034,
             "alias": [
                 "Paphos FC",
+                "Paphos",
                 "AEP"
             ]
         }

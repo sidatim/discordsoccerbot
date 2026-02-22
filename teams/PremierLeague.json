@@ -14,6 +14,7 @@
             "id": 58,
             "alias": [
                 "Aston Villa",
+                "Villa",
                 "AVL"
             ]
         },
@@ -64,6 +65,7 @@
             "alias": [
                 "Man United",
                 "Manchester United",
+                "Man U",
                 "MUN"
             ]
         },
@@ -72,6 +74,7 @@
             "id": 67,
             "alias": [
                 "Newcastle",
+                "Newcastle United",
                 "NEW"
             ]
         },
@@ -88,6 +91,7 @@
             "id": 73,
             "alias": [
                 "Tottenham",
+                "Spurs",
                 "TOT"
             ]
         },
@@ -96,6 +100,7 @@
             "id": 76,
             "alias": [
                 "Wolverhampton",
+                "Wolves",
                 "WOL"
             ]
         },
@@ -112,6 +117,7 @@
             "id": 341,
             "alias": [
                 "Leeds United",
+                "Leeds",
                 "LEE"
             ]
         },
@@ -120,6 +126,7 @@
             "id": 351,
             "alias": [
                 "Nottingham",
+                "Forest",
                 "NOT"
             ]
         },
@@ -128,6 +135,7 @@
             "id": 354,
             "alias": [
                 "Crystal Palace",
+                "Palace",
                 "CRY"
             ]
         },
@@ -136,6 +144,7 @@
             "id": 397,
             "alias": [
                 "Brighton Hove",
+                "Brighton",
                 "BHA"
             ]
         },
