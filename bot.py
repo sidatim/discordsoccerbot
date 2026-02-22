@@ -249,14 +249,6 @@ def getTeamResults(teamID):
     else:
          print("Error getting response", response.status_code)
 
-"""
-searchDict={}
-for league in leagueList:
-     for key,value in league.items():
-          for teamName in key:
-            x=teamName.casefold()
-            searchDict[x]=value
-"""
 def getTeam(response):
     for league in leagueList:
         for team in league['teams']:
