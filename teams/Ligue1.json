@@ -22,6 +22,7 @@
             "id": 516,
             "alias": [
                 "Marseille",
+                "Olympique Marseille",
                 "MAR"
             ]
         },
@@ -54,6 +55,7 @@
             "id": 523,
             "alias": [
                 "Olympique Lyon",
+                "Lyon",
                 "LYO"
             ]
         },
@@ -62,6 +64,7 @@
             "id": 524,
             "alias": [
                 "PSG",
+                "Paris Saint-Germain",
                 "PSG"
             ]
         },
@@ -78,6 +81,8 @@
             "id": 529,
             "alias": [
                 "Stade Rennais",
+                "Rennes",
+                "Stade Rennes",
                 "REN"
             ]
         },
@@ -86,6 +91,7 @@
             "id": 532,
             "alias": [
                 "Angers SCO",
+                "Angers",
                 "ANG"
             ]
         },
@@ -110,6 +116,7 @@
             "id": 545,
             "alias": [
                 "FC Metz",
+                "Metz",
                 "FCM"
             ]
         },
@@ -118,6 +125,7 @@
             "id": 546,
             "alias": [
                 "RC Lens",
+                "Lens",
                 "RCL"
             ]
         },
@@ -126,6 +134,7 @@
             "id": 548,
             "alias": [
                 "Monaco",
+                "AS Monaco",
                 "ASM"
             ]
         },

@@ -2,10 +2,12 @@
     "league": "Bundesliga",
     "teams": [
         {
-            "name": "1. FC K\u00f6ln",
+            "name": "1. FC Koln",
             "id": 1,
             "alias": [
                 "1. FC K\u00f6ln",
+                "FC Koln",
+                "Koln",
                 "KOE"
             ]
         },
@@ -21,6 +23,7 @@
             "name": "Bayer 04 Leverkusen",
             "id": 3,
             "alias": [
+                "Bayer Leverkusen",
                 "Leverkusen",
                 "B04"
             ]
@@ -34,9 +37,10 @@
             ]
         },
         {
-            "name": "FC Bayern M\u00fcnchen",
+            "name": "FC Bayern Munich",
             "id": 5,
             "alias": [
+                "Munich",
                 "Bayern",
                 "FCB"
             ]
@@ -45,6 +49,7 @@
             "name": "Hamburger SV",
             "id": 7,
             "alias": [
+                "Hamburg",
                 "HSV",
                 "HSV"
             ]
@@ -69,6 +74,7 @@
             "name": "SV Werder Bremen",
             "id": 12,
             "alias": [
+                "Werder Bremen",
                 "Bremen",
                 "SVW"
             ]
@@ -98,9 +104,10 @@
             ]
         },
         {
-            "name": "Borussia M\u00f6nchengladbach",
+            "name": "Borussia Monchengladbach",
             "id": 18,
             "alias": [
+                "Monchengladbach",
                 "M'gladbach",
                 "BMG"
             ]
@@ -141,7 +148,7 @@
             "name": "RB Leipzig",
             "id": 721,
             "alias": [
-                "RB Leipzig",
+                "Leipzig",
                 "RBL"
             ]
         }
